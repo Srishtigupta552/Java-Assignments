@@ -47,13 +47,7 @@ public class exercise2_2 {
         {
         	System.out.println("Invalid array size");
         }
-        
-       
-    	
-        	
-       
-        
-        
+              
 	}
 
 }
